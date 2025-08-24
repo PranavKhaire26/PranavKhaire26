@@ -1,4 +1,17 @@
+# 💫 Hi 👋, I'm Pranav khaire
+**A passionate Cyber security || data science|| Kafka Admin from India**
 
+Email Me 👉 ✉️ **pranavkhaire2677@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** To Build AI Agent
+- 🌱 **I’m currently learning:** AI/ML
+- 👯 **I’m looking to collaborate on:** AI Agents
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** pranavkahire2677@gmail.com
+
+- ⚡ **Fun fact:** I Love learnin new things
+
+## 🔗 I am a Student. 😊😊
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranav-khaire-a99589368) 
 
